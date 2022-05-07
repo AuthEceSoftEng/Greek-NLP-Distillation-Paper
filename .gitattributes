@@ -1,0 +1,1 @@
+el_glove_300d.zip filter=lfs diff=lfs merge=lfs -text
